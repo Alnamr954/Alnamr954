@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Alnamr954
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-                 مرحباً، أنا (أ)               
+-                أنا مهتم بـ...              
+-                أنا أتعلم حالياً              
+-               أنا أتطلع إلى التعاون على...             
+-            كيف تصل إليّ...          
 
 <!---
-Alnamr954/Alnamr954 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Alnamr954/Alnamr954 هو مستودع خاص لأن README.md (هذا الملف) يظهر على ملفاتك GitHub.
+يمكنك النقر على وصلة بريبري لإلقاء نظرة على تغيرتك
 --->
